@@ -1,1 +1,1 @@
-# excel-cleaning
+# Data cleaning activities
